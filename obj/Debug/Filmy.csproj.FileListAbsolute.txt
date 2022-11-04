@@ -1,0 +1,22 @@
+D:\Marcel Zarębski\Filmy\bin\Debug\Filmy.exe.config
+D:\Marcel Zarębski\Filmy\bin\Debug\Filmy.exe
+D:\Marcel Zarębski\Filmy\bin\Debug\Filmy.pdb
+D:\Marcel Zarębski\Filmy\obj\Debug\Filmy.csproj.AssemblyReference.cache
+D:\Marcel Zarębski\Filmy\obj\Debug\Filmy.csproj.SuggestedBindingRedirects.cache
+D:\Marcel Zarębski\Filmy\obj\Debug\Filmy.Form1.resources
+D:\Marcel Zarębski\Filmy\obj\Debug\Filmy.Properties.Resources.resources
+D:\Marcel Zarębski\Filmy\obj\Debug\Filmy.csproj.GenerateResource.cache
+D:\Marcel Zarębski\Filmy\obj\Debug\Filmy.csproj.CoreCompileInputs.cache
+D:\Marcel Zarębski\Filmy\obj\Debug\Filmy.exe
+D:\Marcel Zarębski\Filmy\obj\Debug\Filmy.pdb
+C:\Users\marza\Desktop\Filmy\bin\Debug\Filmy.exe.config
+C:\Users\marza\Desktop\Filmy\bin\Debug\Filmy.exe
+C:\Users\marza\Desktop\Filmy\bin\Debug\Filmy.pdb
+C:\Users\marza\Desktop\Filmy\obj\Debug\Filmy.csproj.AssemblyReference.cache
+C:\Users\marza\Desktop\Filmy\obj\Debug\Filmy.csproj.SuggestedBindingRedirects.cache
+C:\Users\marza\Desktop\Filmy\obj\Debug\Filmy.Form1.resources
+C:\Users\marza\Desktop\Filmy\obj\Debug\Filmy.Properties.Resources.resources
+C:\Users\marza\Desktop\Filmy\obj\Debug\Filmy.csproj.GenerateResource.cache
+C:\Users\marza\Desktop\Filmy\obj\Debug\Filmy.csproj.CoreCompileInputs.cache
+C:\Users\marza\Desktop\Filmy\obj\Debug\Filmy.exe
+C:\Users\marza\Desktop\Filmy\obj\Debug\Filmy.pdb
